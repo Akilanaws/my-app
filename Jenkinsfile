@@ -29,3 +29,4 @@ node{
    sh 'docker run -d -p 9000:8080 --name tomcattest 260690/myweb:0.0.5' 
    }
 }
+}
