@@ -1,6 +1,6 @@
 node{
    stage('SCM Checkout'){
-     //git 'https://github.com/Akilanaws/my-app.git'
+     git 'https://github.com/Akilanaws/my-app.git'
    }
    stage('maven-buildstage'){
 
